@@ -12,6 +12,12 @@
     </li>
 </template>
 
+<script>
+export default {
+    props: ['id', 'firstName', 'lastName', 'areas']
+}
+</script>
+
 <style scoped>
 li {
   margin: 1rem 0;
