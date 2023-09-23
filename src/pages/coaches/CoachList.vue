@@ -6,7 +6,7 @@
         <section>
             <div class="controls">
                 <base-button mode="outline">Refresh</base-button>
-                <base-button link="true" to="/register" v-if="!isCoach">Register As Coach</base-button>
+                <base-button link=true to="/register" v-if="!isCoach">Register As Coach</base-button>
             </div>
             <ul v-if="hasCoaches">
                 <coach-item 
