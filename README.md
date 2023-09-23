@@ -1,13 +1,13 @@
-# coach-finder-app
+# Coach Finder Application
 
 ## Short Description:
 A simple Vue.js practice project that highlights the utilization of components, communication between components via props and emitters, structured code, incorporation of Vuex store with data management modules, routing, and adherence to optimal coding practices. This application enables users to sign up as coaches, communicate with coaches by providing their email and a brief message, and access a list of incoming requests.
 
 ## Functionalities:
-Explore profiles and details of all the coaches currently available
-Utilize filters to sort coaches by their specialized areas (frontend, backend, career)
-Enroll as a coach
-Showcase and manage all incoming coaching requests
+* Explore profiles and details of all the coaches currently available
+* Utilize filters to sort coaches by their specialized areas (frontend, backend, career)
+* Enroll as a coach
+* Showcase and manage all incoming coaching requests
 
 ## Examples of View:
 ![Screenshot 2023-09-22 at 8 14 04 PM](https://github.com/WonderBoi99/Coach-Finder-App/assets/61436662/d7f85db4-d581-4699-b2ca-138974dcfd44)
